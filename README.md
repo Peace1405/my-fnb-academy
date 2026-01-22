@@ -1,1 +1,4 @@
-as a new developer these are all my project,they were challengng but exciting.Learning new knowlege and new codes it what get me excitrd but frustrating at time.
+Project Name: My FNB App Academy Project
+Description: A full stack training project completed during the FNB App Academy.
+Technologies: HTML, CSS, JavaScript
+What I learned: UI design, app logic, version control, APIs
